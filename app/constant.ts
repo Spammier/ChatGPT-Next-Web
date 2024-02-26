@@ -1,6 +1,6 @@
-export const OWNER = "Spammie";
+export const OWNER = "Spammier";
 export const REPO = "TingyuChat";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
+export const REPO_URL = `https://github.com/${OWNER}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
